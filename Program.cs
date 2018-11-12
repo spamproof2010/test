@@ -7,6 +7,7 @@ namespace test_commits
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Made 1st change for a commit!");
         }
     }
 }
